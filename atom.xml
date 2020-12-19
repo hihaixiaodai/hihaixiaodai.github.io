@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hihaixiaodai.github.io</id>
     <title>清真读书会</title>
-    <updated>2020-12-18T11:58:32.496Z</updated>
+    <updated>2020-12-19T02:50:33.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hihaixiaodai.github.io"/>
     <link rel="self" href="https://hihaixiaodai.github.io/atom.xml"/>
@@ -12,357 +12,328 @@
     <icon>https://hihaixiaodai.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 清真读书会</rights>
     <entry>
-        <title type="html"><![CDATA[《宗教事务条例》：「禁止以宗教名义进行商业宣传」]]></title>
-        <id>https://hihaixiaodai.github.io/post/lesslesszong-jiao-shi-wu-tiao-li-greatergreater-jin-zhi-yi-zong-jiao-ming-yi-jin-xing-shang-ye-xuan-chuan/</id>
-        <link href="https://hihaixiaodai.github.io/post/lesslesszong-jiao-shi-wu-tiao-li-greatergreater-jin-zhi-yi-zong-jiao-ming-yi-jin-xing-shang-ye-xuan-chuan/">
+        <title type="html"><![CDATA[有胆子去答题呀？]]></title>
+        <id>https://hihaixiaodai.github.io/post/you-dan-zi-qu-da-ti-ya/</id>
+        <link href="https://hihaixiaodai.github.io/post/you-dan-zi-qu-da-ti-ya/">
         </link>
-        <updated>2020-12-18T11:52:52.000Z</updated>
-        <content type="html"><![CDATA[<p>《宗教事务条例》<br>
-第五十三条　任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业宣传。</p>
-<p>《上海市宗教事务条例》<br>
-第四十六条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止利用宗教活动场所进行商业运作并获取经济收益，禁止以宗教名义进行商业宣传。</p>
-<p>《甘肃省宗教事务条例》<br>
-第六十七条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预该宗教活动场所内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业宣传。<br>
-宗教活动场所用于宗教活动的房屋、构筑物及其附属的宗教教职人员生活用房，不得转让、抵押或者作为实物投资。</p>
-<p>《江西省宗教事务条例》<br>
-第五十七条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止对宗教活动场所进行商业运作并获取经济收益，禁止将宗教活动场所作为企业资产打包上市或者进行资本运作，禁止以宗教名义进行商业宣传。</p>
-<p>《重庆市宗教事务条例》<br>
-第五十九条 宗教团体、宗教院校、宗教活动场所是非营利性组织，其财产和收入应当用于与其宗旨相符的活动以及公益慈善事业，不得用于分配。<br>
-任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预该宗教活动场所内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业宣传。<br>
-宗教活动场所用于宗教活动的房屋、构筑物及其附属的宗教教职人员生活用房，不得转让、抵押或者作为实物投资。</p>
-<p>《山东省宗教事务条例》<br>
-第四十九条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止利用宗教活动场所或者大型露天宗教造像进行商业运作，禁止以宗教名义进行商业宣传。</p>
-<p>《四川省宗教事务条例》<br>
-第六十条 任何组织或者个人捐资修建宗教活动场所不得附加任何条件，不得享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益。<br>
-禁止任何组织或者个人以宗教名义进行广告活动、市场营销等商业宣传，禁止投资、承包经营宗教活动场所或者大型露天宗教造像。</p>
-<p>《江苏省宗教事务条例》<br>
-第四十八条 任何组织和个人捐资修建宗教活动场所的，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业宣传，禁止将宗教活动场所作为企业资产进行资本运作，禁止以营利为目的在宗教活动场所内建设骨灰堂等殡葬设施。<br>
-非宗教团体、非宗教院校、非宗教活动场所、非指定的临时活动地点不得通过设置功德箱、奉献箱、乜贴箱等方式，接受和变相接受宗教性质的捐赠。</p>
-<p>《湖北省宗教事务条例》<br>
-第五十三条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预其内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止对宗教活动场所进行商业运作并获取经济收益，禁止以宗教名义进行商业宣传。<br>
-宗教活动场所用于宗教活动的房屋、构筑物及其附属的宗教教职人员生活用房不得转让、抵押或者作为实物投资。</p>
-<p>《陕西省宗教事务条例》<br>
-第四十八条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益,不得干预该宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业运作、谋取利益。</p>
-<p>《河南省宗教事务条例》<br>
-第五十六条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止利用宗教活动场所进行商业运作并获取经济收益，禁止将宗教活动场所作为企业资产打包上市或者进行资本运作，禁止以宗教名义进行商业宣传。</p>
-<p>《内蒙古自治区宗教事务条例》<br>
-第五十条　任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止对宗教活动场所进行商业运作，禁止将宗教活动场所作为企业资产打包上市或者进行资本运作，禁止以宗教名义进行商业宣传。</p>
-<p>《安徽省宗教事务条例》<br>
-第二十七条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益。<br>
-禁止以任何形式投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业宣传。<br>
-宗教活动场所用于宗教活动的房屋、构筑物及其附属的宗教教职人员生活用房不得转让、抵押或者作为实物投资。</p>
-<p>《广西壮族自治区宗教事务办法》<br>
-第四十三条  任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益。禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业宣传。</p>
-<p>《山西省宗教事务条例》<br>
-第二十八条  县级以上宗教事务部门和其他相关部门应当加强监督管理，遏制宗教商业化倾向。<br>
-任何组织或者个人不得从事下列行为：<br>
-（一）投资、承包经营宗教活动场所或者大型露天宗教造像；<br>
-（二）将宗教活动场所作为企业资产打包上市或者进行资本运作；<br>
-（三）利用不属于宗教活动场所的建筑物、构筑物等开展宗教活动或者接受宗教性捐赠；<br>
-（四）以宗教名义进行商业宣传；<br>
-（五）其他利用宗教名义进行的商业运作。</p>
-<p>《广东省宗教事务条例》<br>
-第三十九条  禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业宣传。<br>
-宗教活动场所用于宗教活动的房屋、构筑物及其附属的宗教教职人员生活用房，不得转让、抵押或者作为实物投资。</p>
-<p>《天津市宗教事务条例》<br>
-第五十条 任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得借此干预宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止对宗教活动场所进行商业运作并获取经济收益，禁止将宗教活动场所作为企业资产进行资本运作，禁止以宗教名义进行商业宣传。<br>
-宗教团体、宗教院校、宗教活动场所用于宗教活动的房屋、构筑物及其附属的宗教教职人员生活用房，不得转让、抵押或者作为实物投资。</p>
-<p>《湖南省宗教事务条例》<br>
-第四十二条  任何组织或者个人捐资修建宗教活动场所，不享有该宗教活动场所的所有权和使用权，不得从该宗教活动场所获得经济收益，不得干预宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像。禁止利用宗教活动场所进行商业运作并获取经济收益。禁止以营利为目的在宗教活动场所内投资建设殡葬设施。禁止以宗教名义进行商业宣传。</p>
-<p>《福建省宗教事务条例》<br>
-第五十条  任何组织或者个人捐资修建宗教活动场所的，不享有该宗教活动场所的所有权、使用权，不得从该宗教活动场所获得经济收益，不得干预宗教活动场所的内部事务。<br>
-禁止投资、承包经营宗教活动场所或者大型露天宗教造像，禁止以宗教名义进行商业宣传，禁止将宗教活动场所作为企业资产进行资本运作。<br>
-非宗教团体、非宗教院校、非宗教活动场所、非指定的临时宗教活动地点不得设置功德箱、奉献箱、乜贴箱，不得接受或者变相接受宗教性捐赠。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218195434.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218195448.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218195541.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218195549.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218195556.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218195604.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218195613.jpg" alt="" loading="lazy"></p>
-<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218195434.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218195448.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218195541.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218195549.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218195556.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218195604.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218195613.jpg" alt="" loading="lazy"></p>
-<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218195434.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218195448.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218195541.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218195549.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218195556.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218195604.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218195613.jpg" alt="" loading="lazy"></p>
-<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls9athdw2j30nh44n4qp.jpg" alt="FireShot Capture 1960 - 海小呆-ii的微博_微博 - weibo.com.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls9aszmxhj30xs0u0die.jpg" alt="0081ozHlly1gls8zs3dq5j30xs0u0q60.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls9at1wkoj31k20l10yw.jpg" alt="0081ozHlly1gls8zvw2apj31k20l111b.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls9at45e6j30u02eadna.jpg" alt="0081ozHlly1gls900eldnj30u02eaqc7.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls9atiw4fj31400u0ti1.jpg" alt="0081ozHlly1gls907y5oxj31400u0b2f.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls9atdqbzj31400u0akw.jpg" alt="0081ozHlly1gls90bruzsj31400u0u14.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls9atcyjyj30qo0zkgpw.jpg" alt="0081ozHlly1gls90gz56ej30qo0zk0xv.jpg" loading="lazy"></p>
+        <updated>2020-12-19T02:37:09.000Z</updated>
+        <content type="html"><![CDATA[<p>我知道@宁夏图书馆 跟谁学的坏毛病了。</p>
+<p>@迈克马的家 同学，麻烦问一下您除了拉黑之后偷偷骂人还会点什么？</p>
+<p>有胆子去答题呀？</p>
+<p>http://t.cn/RevpbJW<br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103930.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103939.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219104016.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219104023.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103930.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103939.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219104016.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219104023.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103930.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103939.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219104016.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219104023.jpg" alt="" loading="lazy"></p>
+<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyurplxtj30pt0lx0zu.jpg" alt="04779312ly1ftl4slkxypj20pt0lxnbn.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyurpnbmj30s44o2npd.jpg" alt="04779312ly1ftl4svwsx7j20s44o2b2a.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyurcqs9j30mx0m6wib.jpg" alt="04779312ly1ftl4ui55xcj20mx0m60xx.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyurccw0j30nq0fsjsv.jpg" alt="Snipaste_2020-12-19_10-39-24.jpg" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你说你们还有什么不能拿来卖的？]]></title>
-        <id>https://hihaixiaodai.github.io/post/ni-shuo-ni-men-huan-you-shi-me-bu-neng-na-lai-mai-de/</id>
-        <link href="https://hihaixiaodai.github.io/post/ni-shuo-ni-men-huan-you-shi-me-bu-neng-na-lai-mai-de/">
+        <title type="html"><![CDATA[您还是把另一只鞋也扔了吧！]]></title>
+        <id>https://hihaixiaodai.github.io/post/nin-huan-shi-ba-ling-yi-zhi-xie-ye-reng-liao-ba/</id>
+        <link href="https://hihaixiaodai.github.io/post/nin-huan-shi-ba-ling-yi-zhi-xie-ye-reng-liao-ba/">
         </link>
-        <updated>2020-12-18T10:30:12.000Z</updated>
-        <content type="html"><![CDATA[<p>先知大人教导你们友邻互助是为了要好处？</p>
-<p>先知大人教导你们礼敬长者是为了给自己改信用记录？</p>
-<p>先知大人教导你们慎终追远的时候心里的小算盘不要停？</p>
-<p>你告诉我现场这么多人其实都是去做生意的？</p>
-<p>啧啧啧！你说你们还有什么不能拿来卖的？</p>
-<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218191903.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218191913.jpg" alt="" loading="lazy"></p>
-<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218191903.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218191913.jpg" alt="" loading="lazy"></p>
-<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218191903.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218191913.jpg" alt="" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls885hp7gj30nd0jbjvl.jpg" alt="04779312ly1ftcxvomcrvj20nd0jb48w.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls885hs3gj30oh0jl0up.jpg" alt="Snipaste_2020-12-18_19-18-19.jpg" loading="lazy"></p>
+        <updated>2020-12-19T02:30:57.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天的微博里我向@宁夏图书馆 提了一个问题。本来我是没打算得到任何答复的，不过让我惊喜的是没有三个小时就得到了宁夏图书馆官方的正式答复。</p>
+<p>「宁夏图书馆：您好！首先感谢您长期以来对宁夏回族自治区图书馆的关注和支持。您反映我馆没有专设普通餐厅，也没有单设普通餐窗口的问题确实存在，主要原因如下： 我馆现建筑面积为3.3242万平米，设计年读者接待36万人次。2016年3月实施提升改造项目后，读者使用面积由1.1万平米增至2.1万平米，但仍然不能满足读者学」</p>
+<p>虽然因为技术原因这个回复显示的不完整，但是我还是很感谢对方能心平气和的回答群众的疑问。我也在回复里提出了自己的主张、并在私信里跟馆方说明了微博的规则问题。本来我以为这就算是已经建立了有效的沟通管道，我这样的普通群众终于得到了一个正式的解答。</p>
+<p>可惜啊、可惜，我还是太乐观了。</p>
+<p>今天我发现，我已经被@宁夏图书馆 正式拉黑了。我不明白，这明明是一次正常的沟通，最后怎么会变成了这种样子？我先在只能寄希望于我看不到的那五条回复里面有馆方给出的下文了。</p>
+<p>这种路数在某些营销账号上经常见，挑衅一下或者骂一句娘就拉黑对方，好像取得了某种精神胜利一样。</p>
+<p>可是您是图书馆啊，行事怎么能如此的下三滥？另外您的道理也没说完啊！您根本就没有完成既定战术动作好吧？</p>
+<p>你们怎么一个这样、两个还是这样？你们这都是从哪儿学来的本事？</p>
+<p>我最后发的私信不知道@宁夏图书馆 收到没有，我还是在这里重复一遍：</p>
+<p>「大哥，您把剩下的那半句说完好吗？小伙子！您还是把另一只鞋也扔了吧！」</p>
+<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103210.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103320.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103330.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103345.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103359.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103413.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103421.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219103508.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103210.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103320.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103330.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103345.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103359.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103413.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103421.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219103508.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103210.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103320.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103330.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103345.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103359.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103413.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103421.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219103508.jpg" alt="" loading="lazy"></p>
+<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsypfthvjj30yq0qg11n.jpg" alt="04779312ly1ftku5bxrr8j20yq0qg7q4.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsypfu9wbj30te10tgts.jpg" alt="04779312ly1ftku57zpdzj20te10t49z.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsypgbgq6j30p63c9b29.jpg" alt="04779312ly1ftku5gtzv1j20p63c9kjl.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsypft3qnj30p60f7ae9.jpg" alt="04779312ly1ftku5x33tij20p60f7q79.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsypftewej30p30baaf2.jpg" alt="04779312ly1ftku61v74uj20p30badje.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsypfqm9gj30gt0ek75r.jpg" alt="04779312ly1ftku66rei7j20gt0ek40g.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsypfvtxdj30nv17ddns.jpg" alt="Snipaste_2020-12-19_10-31-53.jpg" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「宗教食品」其实是一个通俗易懂的概念]]></title>
-        <id>https://hihaixiaodai.github.io/post/zong-jiao-shi-pin-qi-shi-shi-yi-ge-tong-su-yi-dong-de-gai-nian/</id>
-        <link href="https://hihaixiaodai.github.io/post/zong-jiao-shi-pin-qi-shi-shi-yi-ge-tong-su-yi-dong-de-gai-nian/">
+        <title type="html"><![CDATA[「互相提携、共存共荣」]]></title>
+        <id>https://hihaixiaodai.github.io/post/hu-xiang-ti-xi-gong-cun-gong-rong/</id>
+        <link href="https://hihaixiaodai.github.io/post/hu-xiang-ti-xi-gong-cun-gong-rong/">
         </link>
-        <updated>2020-12-18T10:26:50.000Z</updated>
-        <content type="html"><![CDATA[<p>「宗教食品」其实是一个通俗易懂的概念：</p>
-<p>按照宗教仪轨制作、用于宗教用途的食品。</p>
-<p>具体到「清真食品」上，就是：</p>
-<p>「清真食品」是依照「沙里亚」法的要求的仪轨选材屠宰制作、用于体认践行「认主独一」这一宗教信仰的食品。</p>
-<p>这有什么难懂的吗？</p>
-<p>「五功即认礼斋课朝，认主独一，日常拜功，封斋，天地两课，朝觐；六义即信真主、信天仙、信天经、信圣人、信前定、信后世，信真主独一为众世界之养主，信天仙真存为真主一造化，信经典为天启为真主所言，信圣人为被造物亦为真主亲点为圣教化人类，信世事前定不可改顺真主之命行事即可，信后世真有，末日、重生、清算审判为真，勤行善功不为恶，不敢有一息懈怠忘主，劝人行善止人作恶，扬正道真善于世。」</p>
-<p>唉，我一个普通老百姓这两天净给教徒宣讲教法教义、普及正信了，这个游戏什么时候能倒过来啊？</p>
-<p>你们这样让真主很为难啊！</p>
-<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182838.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182848.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182856.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182906.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182914.jpg" alt="" loading="lazy"></p>
-<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182838.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182848.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182856.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182906.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182914.jpg" alt="" loading="lazy"></p>
-<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182838.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182848.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182856.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182906.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182914.jpg" alt="" loading="lazy"></p>
-<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6s2ttf6j31gm1zp7rc.jpg" alt="04779312ly1ftcx18s3fvj21gm1zp4qp.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6s29nl6j30ns0oljxb.jpg" alt="04779312ly1ftcx8hh86hj20ns0ol7l1.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6s2h20vj30nf2erh3s.jpg" alt="04779312ly1ftcx9r4hknj20nf2erhdt.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6s21p0wj30nj0hjn05.jpg" alt="04779312ly1ftcxaevwi4j20nj0hjwil.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6s22okmj30nv0trq7h.jpg" alt="Snipaste_2020-12-18_18-27-33.jpg" loading="lazy"></p>
+        <updated>2020-12-19T02:26:47.000Z</updated>
+        <content type="html"><![CDATA[<p>「　　回族人口增长较快<br>
+　　2017年末，全区常住人口中，汉族人口为428.45万人，比2016年末增加3.4万人，增长0.8%；回族人口为247.57万人，比2016年末增加3.42万人，增长1.4%；其他少数民族为5.77万人，比2016年末增加0.07万人，增长1.28%。回族人口增长较快，得益于国家民族政策的惠顾，也反映出民族团结、宗教和顺、共同进步、繁荣发展的景象。」</p>
+<p>以上是2018年2月2日发表于「宁夏新闻网」的报道《2017年宁夏常住人口682万人 总人口增速回落》里的一段文字。这篇报道分别于2018年2月3日在宁夏新闻网的微博和微信公众号平台进行了全文转载。</p>
+<p>这篇报道的简写版以《2017年全区常住人口682万人》的题目在2018年2月3日的《宁夏日报》头版发表，并由中国政府网在2018年2月4日全文转载。</p>
+<p>这两个版本未必有传承关系，但是应该是基于同一个消息源的同一份文本。前一篇有分段标题且内容较多，后一篇并没有分段标题仅保留了数据部分。</p>
+<p>比如民族人口比例这一节，后一篇完全删除了「回族人口增长较快，得益于国家民族政策的惠顾，也反映出民族团结、宗教和顺、共同进步、繁荣发展的景象。」这一段，文章类似的删减还有很多。</p>
+<p>我感兴趣的是，这段文字究竟是「宁夏新闻网」编辑记者的发挥呢还是信息源里本来就有？所以我去检索了宁夏统计局的原始文本。很有趣，统计局这篇发布的标题也是《2017年全区常住人口682万人》，但是结构小标题文本却跟最先发出的那篇《2017年宁夏常住人口682万人 总人口增速回落》完全相同。</p>
+<p>除了开头引用的「回族人口增长较快」这一小节。</p>
+<p>确切的是说这一节在统计局的文章里完全消失了，从数据到点评都不见了。</p>
+<p>宁夏统计局的这篇发布的上线时间是2018年2月5日，也就是说统计局的原始文本居然是最晚发布的。而我最初关注这个问题的信息源是@窗含西岭雪8923 先生发布于2018年2月3日的一篇转发发微博。</p>
+<p>我很好奇，在这短短4天的时间里究竟发生了什么有趣的互动？</p>
+<p>明明是「互相提携、共存共荣」的好大祥瑞怎么会变得被当事人讳莫如深？</p>
+<p>「回族人口增长较快，得益于国家民族政策的惠顾，也反映出民族团结、宗教和顺、共同进步、繁荣发展的景象。」<br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102803.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102810.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102820.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102830.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102839.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102849.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102908.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102916.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102927.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102944.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102803.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102810.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102820.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102830.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102839.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102849.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102908.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102916.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102927.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102944.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102803.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102810.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102820.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102830.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102839.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102849.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102908.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102916.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102927.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102944.jpg" alt="" loading="lazy"></p>
+<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjmb1mxj31kw1qob29.jpg" alt="04779312ly1ftkpxyv52tj21kw1qokjm.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjl3hhpj31kw1jeb29.jpg" alt="04779312ly1ftkpy5avptj21kw1jex6r.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjm6t44j31hc2vqu0x.jpg" alt="04779312ly1ftkpz3g2uoj21hc2vqqv5.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjm6kn0j31hc2cr4qp.jpg" alt="04779312ly1ftkpzbyf8rj21hc2cr4qp.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjljoinj31i62q0x6p.jpg" alt="04779312ly1ftkpzk5ucgj21i62q04qq.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjkksu5j315m1hunnf.jpg" alt="04779312ly1ftkpzpqqdcj215m1huwwf.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjkd39uj30s20tjjy5.jpg" alt="04779312ly1ftkq0zis18j20s20tjgts.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjolxtsj31hc3lc7wi.jpg" alt="04779312ly1ftkq14ls9bj21hc3lcb2a.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjmgxnrj313o92c4qq.jpg" alt="04779312ly1ftkq1bgqkkj213o92cb2c.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyjkdmjtj30od1jrdqc.jpg" alt="Snipaste_2020-12-19_10-27-44.jpg" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你还要脸吗? ​​​​]]></title>
-        <id>https://hihaixiaodai.github.io/post/ni-huan-yao-lian-ma/</id>
-        <link href="https://hihaixiaodai.github.io/post/ni-huan-yao-lian-ma/">
+        <title type="html"><![CDATA[今天是723啊！我永远忘不了那年大江南北、郁气如潮。 ​​​​]]></title>
+        <id>https://hihaixiaodai.github.io/post/jin-tian-shi-723-a-wo-yong-yuan-wang-bu-liao-na-nian-da-jiang-nan-bei-yu-qi-ru-chao/</id>
+        <link href="https://hihaixiaodai.github.io/post/jin-tian-shi-723-a-wo-yong-yuan-wang-bu-liao-na-nian-da-jiang-nan-bei-yu-qi-ru-chao/">
         </link>
-        <updated>2020-12-18T10:23:39.000Z</updated>
-        <content type="html"><![CDATA[<p>听说某个东西不承认「宗教食品」这个词的存在？</p>
-<p>@胡杨麟的微博 你还要脸吗? ​​​​</p>
-<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182424.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182430.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182437.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182444.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182454.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182502.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182510.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182524.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182532.jpg" alt="" loading="lazy"></p>
-<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182424.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182430.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182437.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182444.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182454.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182502.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182510.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182524.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182532.jpg" alt="" loading="lazy"></p>
-<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182424.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182430.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182437.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182444.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182454.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182502.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182510.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182524.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182532.jpg" alt="" loading="lazy"></p>
+        <updated>2020-12-19T02:24:52.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是723啊！我永远忘不了那年大江南北、郁气如潮。 ​​​​<br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102547.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102555.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102547.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102555.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102547.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102555.jpg" alt="" loading="lazy"></p>
+<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyfn4aizj30o405p3yx.jpg" alt="Snipaste_2020-12-19_10-25-45.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyfn4hxtj30ng05b0t3.jpg" alt="Snipaste_2020-12-19_10-25-15.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsyfn5357j30on0b840r.jpg" alt="Snipaste_2020-12-19_10-25-01.jpg" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这种伎俩很困难吗？]]></title>
-        <id>https://hihaixiaodai.github.io/post/zhe-chong-ji-lia-hen-kun-nan-ma/</id>
-        <link href="https://hihaixiaodai.github.io/post/zhe-chong-ji-lia-hen-kun-nan-ma/">
+        <title type="html"><![CDATA[西安北院门现状及问题分析]]></title>
+        <id>https://hihaixiaodai.github.io/post/xi-an-bei-yuan-men-xian-zhuang-ji-wen-ti-fen-xi/</id>
+        <link href="https://hihaixiaodai.github.io/post/xi-an-bei-yuan-men-xian-zhuang-ji-wen-ti-fen-xi/">
         </link>
-        <updated>2020-12-18T10:21:41.000Z</updated>
-        <content type="html"><![CDATA[<p>来而不往非礼也。<br>
-这个@胡杨麟的微博 伪造我发表在别人微博下的评论，那我也按照他的套路修改一篇他发表的微博。<br>
-不过我比他有底线，他的文字我可一个字都没动。<br>
-这种伎俩很困难吗？<br>
-这个「胡子」，你有胆子就开放你的拉黑，看看你能骗人到几时？ ​​​​</p>
-<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182228.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182237.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182244.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182251.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182258.jpg" alt="" loading="lazy"></p>
-<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182228.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182237.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182244.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182251.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182258.jpg" alt="" loading="lazy"></p>
-<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182228.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182237.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182244.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182251.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182258.jpg" alt="" loading="lazy"></p>
+        <updated>2020-12-19T02:21:55.000Z</updated>
+        <content type="html"><![CDATA[<p>历史街区保护与更新的研究<br>
+——西安北院门现状及问题分析<br>
+史 琦</p>
+<p>一、引言</p>
+<p>在全球一体化的发展进程下，由于各国之间的文化互相渗透，世界变得越来越小。单从建筑风格上说，各个国家建造出越来越多地采用现代手法、现代材料、形状相似、文化底蕴薄弱的现代建筑。然而这种建筑的大批量出现，从一定角度上慢慢磨灭掉了建筑的地域文化代表性。历史文化对建筑风格的影响极为重要，它作为塑造城市特色的重要依据，不能复制，不能推翻，不能臆造。然而那些曾经作为主流的建筑在全球一体化的推动下慢慢衰败、没落，甚至遗失。身为世界三大建筑体系之一的中国，所独具的建筑风格是不能够被仿造和磨灭的。当然历史的城市不仅仅体现在建筑本身，也包括这个城市的街道、雕塑等。我们常常所说的古街正规点说也就是历史街区。“历史街区”这个概念在1986年正式被我国提出来：“作为历史文化名城，不仅要看城市的历史，及其保存的文物古迹，而且要看其现状格局和风貌是否保留着历史特色，并具有一定的代表城市传统风貌的街区。”但是在城市快速发展的今天，古老的城市历史文化作为一种非物质文化遗产在城市发展的进程中慢慢被摒弃、取代。作为历史的见证，这些古代建筑、历史街区该如何保护和更新，使之更好地延续下去，是每个城市都要深入思考的问题。<br>
+二、北院门的现状</p>
+<p>1.地理位置</p>
+<p>位于钟楼西侧莲湖区化觉巷的北院门（回民街）是西安市一条著名的历史街区，也是聚集西安回民最多的地区。其东起北院门，西至早慈巷，北起红埠街，南至西大街。回民街现有回族人口2.5万余人，占西安市回族人口的60%。在北院门商业街，以汉族和回族为主的多个民族于此居住生活，呈现出多元化的文化氛围，具有独特的历史与文化价值。<br>
+2.经济结构</p>
+<p>随着历史街区的发展，北院门也相应形成了一系列富有清真特色的食品、古玩商店的商业街区，有力地带动了经济发展。但随着经济的不断发展，现有的经营模式已经不适应当前市场经济规模下的运营模式和消费观念。街区内无证经营、经营秩序混乱、违章建房等已经严重影响了街区的发展。尤其街区的环境卫生，已经成为影响街区风貌的瓶颈。<br>
+3.建筑风格</p>
+<p>北院门的整体结构比较特殊，既有回民信仰的清真寺的寺庙建筑，又有回民的居住地。北院门基本上是原汁原味的明清传统形式的一二层木结构店铺，兼有一些明清遗留下来的西安布政使官署和六七处达官贵人的宅邸。这些古建遗存，古朴典雅，建造精巧，具有浓郁的关中传统民居和市井建筑风格，是西安市典型的风貌依旧的古街道。随着时代的变迁，许多建筑已经失去了原有的风貌，建筑密集且都低矮，整个街区的道路狭窄，城中村式的民居建设，整体统一性差。<br>
+4.公共设施</p>
+<p>作为文化历史街区，它的环境应当和街区的整体建筑群相适应，为人们提供一个舒适的休闲场所。北院门街区的道路狭窄，配套的街区设施不够，无垃圾筒、路标，缺乏照明设施，下水设施比较陈旧，绿化率覆盖面积小，无具有代表性的公共景观小品，整个街区无公共的活动场所。这些都是影响街区发展的关键因素。<br>
+三、北院门存在的主要问题</p>
+<p>历史街区在发展的过程中，经历了无数次的发展和更新，在利用的价值上，它已经超过了其他文化遗产的价值。由于年久未经修缮，历史街区也出现了一些令人担忧的问题，主要体现在以下几个方面。<br>
+1.原有空间形态遗失</p>
+<p>西安的迅速发展使得城市的面貌有了日新月异的变化，但在发展的过程中，原有的历史文化建筑也在悄无声息地遗失。那些传统的，我们曾经引以为豪的历史建筑退出了我们的视线，或是风化坍塌或是人为摒弃。现代建筑严重破坏了建筑的原有格局和风貌，由于缺乏历史文化名城和历史街区的保护意识，新建筑的色彩、体量与历史街区风貌不协调。<br>
+2.原有社会功能退化</p>
+<p>历史街区作为文化和历史的载体，记录了历史的变迁和文化的演变，对城市的发展有着重要的意义。在城市发展的过程中，由于没有保护历史街区的利用价值，它的原有功能已经遭到了极大的破坏，逐渐退化。历史街区的公共功能如道路功能、公共设施和绿化空间，已经失去了它原有的风貌；特色功能如人性化的居住、文化标识、旅游休闲，在城市发展的过程中销声匿迹；景观如人文景观、标志性雕塑由于历史战乱毁损较多，无法实现它原有的功能。<br>
+3.原有结构体系衰败</p>
+<p>历史街区作为一种特殊的信息载体，记录了当时的建造特色，体现了一定历史时期的建筑风格，是城市文脉的魂宝。在城市发展的过程中，由于缺乏保护原有建筑的意识，一些历史建筑被随意地损毁和肆意地改变，已经改变了原有建筑的结构体系和建筑风格，无法体现历史街区的原有风貌。<br>
+4.原有文化风貌湮没</p>
+<p>历史街区是一种特殊的文化遗产，代表了一定历史时期的文化内涵。现代建筑的出现，代替了历史建筑，也湮没了街区的文化风貌。原有的历史建筑、雕塑及人文景观的消失，以及逐渐消失的历史文化风貌，在一定程度上显示了历史名城的特色和风貌的消失。<br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102320.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102328.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102338.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102320.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102328.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102338.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102320.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102328.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102338.jpg" alt="" loading="lazy"></p>
+<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsydibd9sj30go2e6hdt.jpg" alt="04779312ly1ftjekb0eyrj20go2e617i.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsydi6ysoj31hc6qpe81.jpg" alt="04779312ly1ftjekhomfwj21hc6qp1kx.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsydhrpinj30nw0ilwgi.jpg" alt="Snipaste_2020-12-19_10-23-15.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsydhs28lj30nw0jl41h.jpg" alt="Snipaste_2020-12-19_10-22-19.jpg" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[除了造假骗自己人还会干什么？ ]]></title>
-        <id>https://hihaixiaodai.github.io/post/chu-liao-zao-jia-pian-zi-ji-ren-huan-hui-gan-shi-me/</id>
-        <link href="https://hihaixiaodai.github.io/post/chu-liao-zao-jia-pian-zi-ji-ren-huan-hui-gan-shi-me/">
+        <title type="html"><![CDATA[【来 源】宁夏日报]]></title>
+        <id>https://hihaixiaodai.github.io/post/lai-yuan-ning-xia-ri-bao/</id>
+        <link href="https://hihaixiaodai.github.io/post/lai-yuan-ning-xia-ri-bao/">
         </link>
-        <updated>2020-12-18T10:18:16.000Z</updated>
-        <content type="html"><![CDATA[<p>@胡杨麟的微博</p>
-<p>这种东西，除了造假骗自己人还会干什么？ ​​​​</p>
-<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218181949.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182022.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182034.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218182041.jpg" alt="" loading="lazy"></p>
-<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218181949.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182022.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182034.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218182041.jpg" alt="" loading="lazy"></p>
-<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218181949.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182022.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182034.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218182041.jpg" alt="" loading="lazy"></p>
-<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6j9cp1hj30nf2er7mg.jpg" alt="04779312ly1ftcmsbu9eoj20nf2er4qp.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6j97n1dj30ns0ol44f.jpg" alt="04779312ly1ftcmwwmzfoj20ns0olwrm.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6j9901dj313z0pfwo4.jpg" alt="04779312ly1ftcmuyqnobj213z0pfdzx.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6j96kz7j30o80cc3zm.jpg" alt="Snipaste_2020-12-18_18-19-06.jpg" loading="lazy"></p>
+        <updated>2020-12-19T02:19:30.000Z</updated>
+        <content type="html"><![CDATA[<p>【日 期】2015.12.06 【来 源】宁夏日报<br>
+您咨询的该报纸正文为:<br>
+本报讯 宁夏回族自治区人大常委会原副主任马有德同志，因病医治无效，于2015年12月4日21时15分在银川逝世，享年95岁。   马有德同志，回族，宁夏西吉人，1921年1月出生，1936年8月参加革命工作，1945年10月加入中国共产党。先后在红一方面军、红三十军、警备三团，甘肃省镇原县合作社、统战部，甘肃省平东工委，甘肃省泾源县等单位工作。1949年8月至1958年8月，历任甘肃省泾源县副县长、县长、县委书记。1958年8月至1981年8月，历任宁夏回族自治区政协副秘书长，冶金局副局长，渠口农场副场长、革委会副主任，贫协常委，固海扬水工程指挥部副书记，固原地委副书记。1981年8月至1988年5月，任宁夏回族自治区第四届、第五届人大常委会副主任。1995年4月离休。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102055.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219102118.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102055.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219102118.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102055.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219102118.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[何苦来哉？老回回]]></title>
-        <id>https://hihaixiaodai.github.io/post/he-ku-lai-zai-lao-hui-hui/</id>
-        <link href="https://hihaixiaodai.github.io/post/he-ku-lai-zai-lao-hui-hui/">
+        <title type="html"><![CDATA[夷狄腥膻，污染华夏]]></title>
+        <id>https://hihaixiaodai.github.io/post/yi-di-xing-tan-wu-ran-hua-xia/</id>
+        <link href="https://hihaixiaodai.github.io/post/yi-di-xing-tan-wu-ran-hua-xia/">
         </link>
-        <updated>2020-12-18T10:15:45.000Z</updated>
-        <content type="html"><![CDATA[<p>「在~~~家中奉命归真，年仅83岁。」</p>
-<p>这得是多么不想「奉」这个「命」，才能写出「年仅83岁」这种丧心病狂的文案来。</p>
-<p>可见真主也是冤大头，给它们搂了这么多钱也捂不热它们的心。死都死了，还不忘着拆一下真主的台。</p>
-<p>何苦来哉？ ​​​​</p>
-<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218181713.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218181721.jpg" alt="" loading="lazy"></p>
-<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218181713.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218181721.jpg" alt="" loading="lazy"></p>
-<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218181713.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218181721.jpg" alt="" loading="lazy"></p>
+        <updated>2020-12-19T02:17:47.000Z</updated>
+        <content type="html"><![CDATA[<p>明太祖朱元璋：「胡元入主中国，夷狄腥膻，污染华夏，学校废驰，人纪荡然。」 ​​​​</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101836.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101836.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101836.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsy7xqigsj30o606cwf0.jpg" alt="Snipaste_2020-12-19_10-18-33.jpg" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「奉命归真」这个词]]></title>
-        <id>https://hihaixiaodai.github.io/post/feng-ming-gui-zhen-zhe-ge-ci/</id>
-        <link href="https://hihaixiaodai.github.io/post/feng-ming-gui-zhen-zhe-ge-ci/">
+        <title type="html"><![CDATA[我们汉族在宁夏回族自治区要求一个「少数民族」待遇，这不是一件过份的事情吧？]]></title>
+        <id>https://hihaixiaodai.github.io/post/wo-men-han-zu-zai-ning-xia-hui-zu-zi-zhi-qu-yao-qiu-yi-ge-shao-shu-min-zu-dai-yu-zhe-bu-shi-yi-jian-guo-fen-de-shi-qing-ba/</id>
+        <link href="https://hihaixiaodai.github.io/post/wo-men-han-zu-zai-ning-xia-hui-zu-zi-zhi-qu-yao-qiu-yi-ge-shao-shu-min-zu-dai-yu-zhe-bu-shi-yi-jian-guo-fen-de-shi-qing-ba/">
         </link>
-        <updated>2020-12-18T10:14:31.000Z</updated>
-        <content type="html"><![CDATA[<p>「奉命归真」这个词听起来好像是「奉命把阿拉送回姥姥家」一样。 ​​​​</p>
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218181453.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218181453.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218181453.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="http://ww1.sinaimg.cn/large/0081ozHlly1gls6d2tnc1j30o205s3yz.jpg" alt="Snipaste_2020-12-18_18-13-50.jpg" loading="lazy"></figure>
+        <updated>2020-12-19T02:10:22.000Z</updated>
+        <content type="html"><![CDATA[<p>首先感谢@习五一 先生的资料分享。</p>
+<p>补充一下我检索到的信息。宁夏图书馆的这个餐厅应该是由「宁夏明瑞苑餐饮管理股份有限公司」承包经营的，这家公司的名称于2018年3月5日由「宁夏明瑞苑穆斯林餐饮管理股份有限公司」变更为「宁夏明瑞苑餐饮管理股份有限公司」，不知道是不是因为发现自己的经营范围内一直都有「烟酒」这一项的原因？</p>
+<p>今天不打算展开讨论图书馆官方是不是有必要有能力专门设置普通餐厅的问题。我只提供一个「特别」的视角给大家参考。</p>
+<p>大家都知道，在高校或者军队国企之类的机构里，对没有条件专设「清真餐厅」的情况，政府有专门的法律法规明确规定要专设「清真专卖窗口」和「清真灶」。</p>
+<p>那么我想问一句：</p>
+<p>图书馆官方是否同意这个「清真餐厅」里也应该单设「普通餐窗口」或者「普通餐灶」呢？还有相应的「汉族专座」？</p>
+<p>请大家不要觉得这个问题匪夷所思，还有「当地汉族」不要觉得这种提议是多么的荒唐可笑。我来说一下我的道理，供大家参考：</p>
+<p>大家应该知道，我国建立「清真食堂、清真窗口、清真灶」的基本原因是在执行《宪法》第四条中的规定：「各民族都有使用和发展自己的语言文字的自由，都有保持或者改革自己的风俗习惯的自由。」。请注意，这里是「各民族都有保持自己风俗习惯的自由」，而不是「只有少数民族有保持自己风俗习惯的自由」。主张自己民族的宪法权利是不是基本人权呀？</p>
+<p>我经常说个笑话，「我们汉族的饮食风俗是『宽容』，请尊重我们的风俗习惯。」当然，「尊重」并不是「遵守」，强制要求遵守「单一的民族风俗」显然不是宽容是吧？大家既然风俗不同、那么各行一套应该不是什么过份的要求吧？事实上，「清真食堂/窗口/灶」正是「各行一套原则」的实践产物。</p>
+<p>如果设立单独的普通食堂有困难，在清真食堂里设立个普通窗口应该不是太困难的事情吧？这里我们不去讨论宁夏本地的汉族和回族人口比例是二比一的问题，就当宁夏本地的汉族都是清真口味好了。可宁夏图书馆并不是只服务宁夏本地人的图书馆，如果有外地人外地汉族在宁夏图书馆有就餐需求，他还偏偏不习惯宁夏餐饮这种「腥膻遍地」的口味特色，要保持自己的风俗吃一口「肥而不腻、五花三层」，是不是应该得到他应得的尊重？</p>
+<p>我们汉族在宁夏回族自治区要求一个「少数民族」待遇，这不是一件过份的事情吧？</p>
+<p>况且，宁夏图书馆餐厅对这种情况也不是没有处理预案。大家请看2016年12月5日的顾客评论过里馆方对这种情况的处理：</p>
+<p>「餐厅禁止外带食物，叫了外卖在餐厅旁边的小房子就餐，环境不是一般差，桌面很脏，进去还有点霉味。」</p>
+<p>这无论如何也算不上是「平等尊重」吧？不知道宁夏回族自治区的@宁夏图书馆现在还是给其他民族的客人准备这种又脏又霉的小破屋吗？</p>
+<p>那么我再重新问一遍@宁夏图书馆 和@宁夏发布 这个看似荒唐的问题：</p>
+<p>图书馆官方和回族群众是否同意这个「清真餐厅」里也应该单设「普通餐窗口」或者「普通餐灶」呢？还有相应的「汉族专座」？</p>
+<p>另外说一句，《中华人民共和国宪法》的第四条的第一句是：</p>
+<p>第四条　中华人民共和国各民族一律平等。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101247.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101313.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101329.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101344.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101428.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101518.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101528.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101542.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101551.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219101612.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101247.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101313.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101329.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101344.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101428.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101518.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101528.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101542.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101551.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219101612.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101247.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101313.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101329.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101344.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101428.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101518.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101528.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101542.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101551.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219101612.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[测试一下托管]]></title>
-        <id>https://hihaixiaodai.github.io/post/ce-shi-yi-xia-tuo-guan/</id>
-        <link href="https://hihaixiaodai.github.io/post/ce-shi-yi-xia-tuo-guan/">
+        <title type="html"><![CDATA[嘿嘿，「国家机关工作人员侵犯少数民族风俗习惯罪」！ ​​​​]]></title>
+        <id>https://hihaixiaodai.github.io/post/mo-mo-guo-jia-ji-guan-gong-zuo-ren-yuan-qin-fan-shao-shu-min-zu-feng-su-xi-guan-zui/</id>
+        <link href="https://hihaixiaodai.github.io/post/mo-mo-guo-jia-ji-guan-gong-zuo-ren-yuan-qin-fan-shao-shu-min-zu-feng-su-xi-guan-zui/">
         </link>
-        <updated>2020-12-18T08:38:10.000Z</updated>
-        <content type="html"><![CDATA[<p>加速啊加速</p>
+        <updated>2020-12-19T02:08:20.000Z</updated>
+        <content type="html"><![CDATA[<p>嘿嘿，「国家机关工作人员侵犯少数民族风俗习惯罪」！ ​​​​<br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219100858.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219100909.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219100858.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219100909.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219100858.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219100909.jpg" alt="" loading="lazy"></p>
+<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsxy6g2lbj310x0nlq90.jpg" alt="04779312ly1ftiazh1741j210x0nln9f.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsxy6daddj30nz0clgmt.jpg" alt="Snipaste_2020-12-19_10-08-50.jpg" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[是个假穆斯林]]></title>
-        <id>https://hihaixiaodai.github.io/post/shi-ge-jia-mu-si-lin/</id>
-        <link href="https://hihaixiaodai.github.io/post/shi-ge-jia-mu-si-lin/">
+        <title type="html"><![CDATA[说老实话，简直太不清真了！ ​​​​]]></title>
+        <id>https://hihaixiaodai.github.io/post/shuo-lao-shi-hua-jian-zhi-tai-bu-qing-zhen-liao/</id>
+        <link href="https://hihaixiaodai.github.io/post/shuo-lao-shi-hua-jian-zhi-tai-bu-qing-zhen-liao/">
         </link>
-        <updated>2020-12-18T04:45:54.000Z</updated>
-        <content type="html"><![CDATA[<p>大家请注意，这个账号@一个迷茫的蝼蚁 是个假穆斯林。因为他在2018年5月在微博上自称真主给他降示、他以自称的「真主降示」在传教，仅在微博上就发了很多条。而且，至今他没有对这些「举伴真主」的罪行进行公开忏悔并消除影响。</p>
-<p>伊斯兰教是合法宗教，但是此人是个公然挑衅伊斯兰教核心教义的邪教徒。因此他没有讨论任何伊斯兰教问题的合法穆斯林身份。</p>
-<p>第二，此人自称回族。可是就算是最世俗化的回族同胞也会对伊斯兰教保有基本的敬意和尊重，不可能在公开场合冒称穆斯林身份做出污蔑亵渎伊斯兰教核心教义的行为。更不用说回族群众中的伊斯兰教徒，更不会做出这种公然叛教的勾当。</p>
-<p>所以，合理的解释是，此人回族身份也十分可疑，很可能是伪造冒充的。</p>
-<p>因此，此人在讨论民族问题时并没有可以取信于人的回族身份。</p>
-<p>第三，此人自称是躁郁症患者。如果这个说法不是他用来掩护自己侮辱伊斯兰教行为的伪装。那此人参加的每一次讨论中的每一条发言，都有可能是燥郁状态下的「胡言乱语」，因为他至今没有就他辩称的「燥郁状态下」所发布的侮辱伊斯兰教的微博进行道歉和澄清。因此有理由相信他参加的每一条公众讨论中并没有合理的健康人身份。</p>
-<p>希望关爱燥郁病人，大家监督此人的动态。</p>
-<p>在他每一次跳出来用挑衅的方式强行参与民族宗教议题的时候，提醒他及时就医、并尽快在健康状态下澄清并改正自己侮辱伊斯兰教的罪行。</p>
-<p>我不是精神疾患方面的专家，我只能说一下我判断此人痊愈的标志：</p>
-<p>首先他对自己各种举伴真主、自称先知的罪行向真主、穆圣和中外伊斯兰教各界做出诚恳的忏悔；其次他需要重新回归伊斯兰教「认主独一」的正信并得到正统的教职人士的入教认可，并对自己各种的举伴行径做出公开批判并消除影响。<br>
-私下偷偷删除并不能证明他的健康，因为那可能只是把种种辱教行径内化于燥郁状态之内不为人所知而已。</p>
-<p>在他做到以上各点之前，希望大家不要跟他讨论民族宗教之类的公共议题，以免加重他的燥郁症病情和避免他因公开侮辱伊斯兰教而可能带来的人身安全危机。</p>
-<p>不论此人的各种身份是真是假，他的燥郁症状态跟伊斯兰教都有着密切关系。更别说他的种种诋毁侮辱伊斯兰教的行径给伊斯兰教造成的危害。</p>
-<p>所以，伊斯兰教各届对于此人和他的行为有着道义上和利益上双重责任。不论是正本清源也好还是关爱病患也罢，心病还须心药医、伊斯兰教各界都有义务来对此人进行帮扶和救治，而且伊斯兰教各界也有能力做到这点。他在微博上拥护和支持的各个著名「护穆账号」更不能对此视而不见。</p>
-<p>我认为，作为微博上著名的伊斯兰教神职人员@李海洋阿訇，应该站出来勇于承担这个责任，哪怕私下接受此人的忏悔和赎罪也好。</p>
-<p>远离疫病、关爱生命，谢谢大家。<br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124707.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124714.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124726.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124737.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124746.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124756.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124824.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124838.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124846.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201218124853.jpg" alt="" loading="lazy"></p>
-<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124707.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124714.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124726.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124737.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124746.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124756.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124824.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124838.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124846.jpg" alt="" loading="lazy"><br>
-<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201218124853.jpg" alt="" loading="lazy"></p>
-<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124707.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124714.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124726.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124737.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124746.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124756.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124824.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124838.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124846.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201218124853.jpg" alt="" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glrwy641pkj31260lk7ed.jpg" alt="04779312ly1ftbpfz6e5mj21260lk4qp.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glrwy6vqwmj30rw2kaqv5.jpg" alt="04779312ly1ftbpgg3eqzj20rw2ka7wj.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glrwy65iu8j30qa0etgu1.jpg" alt="04779312ly1ftbpgx1aowj20qa0etncg.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glrwy66uekj312w0gu4a5.jpg" alt="04779312ly1ftbphscfpjj212w0gue4l.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glrwy7p6rlj31hc3soe82.jpg" alt="04779312ly1ftbpieqktzj21hc3sonpf.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glrwy7i984j30zta1jnpg.jpg" alt="04779312ly1ftbpih10wpj20zta1jkjr.jpg" loading="lazy"><br>
-<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glrwy68iupj30ob1p1dt1.jpg" alt="Snipaste_2020-12-18_12-46-26.jpg" loading="lazy"></p>
+        <updated>2020-12-19T02:05:34.000Z</updated>
+        <content type="html"><![CDATA[<p>说老实话，简直太不清真了！ ​​​​<br>
+·<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219100634.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219100646.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/hihaixiaodai/PicGopic/20201219100720.jpg" alt="" loading="lazy"></p>
+<p><img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219100634.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219100646.jpg" alt="" loading="lazy"><br>
+<img src="https://github.com/hihaixiaodai/PicGopic/raw/master/20201219100720.jpg" alt="" loading="lazy"></p>
+<p><img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219100634.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219100646.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/hihaixiaodai/PicGopic/master/20201219100720.jpg" alt="" loading="lazy"></p>
+<p><img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsxw80jzmj31hk13ihdt.jpg" alt="04779312ly1fthn8dlyvhj21hk13ihdy.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsxw7u43uj31kw141qgg.jpg" alt="04779312ly1fthn8rjraoj21kw141qgs.jpg" loading="lazy"><br>
+<img src="http://ww1.sinaimg.cn/large/0081ozHlly1glsxw7noc0j30ny0a7q3t.jpg" alt="Snipaste_2020-12-19_10-06-29.jpg" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
